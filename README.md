@@ -1,4 +1,4 @@
-# CoffeeShopDAProject
+# Coffee Shop inventory Management
 
 My client, a coffee shop owner, was struggling with inventory management and needed a way to track weekly income. To address these challenges, I developed a SQL-driven analysis and database design solution that streamlined operations and provided clear financial insights.
 
