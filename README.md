@@ -1,9 +1,11 @@
+# !Synthetic Data! Created by AI!
+
 # Coffee Shop Inventory Management
 
-My client, a coffee shop owner, was struggling with inventory management and needed a way to track weekly income. To address these challenges, I developed a SQL-driven analysis and database design solution that streamlined operations and provided clear financial insights.
+For a practice project, I worked on solving problems for a pretend coffee shop. The project was about improving how the shop managed its inventory and tracked its weekly income. I used SQL to create a database and analysis system that made everything easier to manage and gave clear financial information.  
 
-**Inventory Management:** Developed queries to monitor stock levels and predict reorder points.  
-**Income Reporting:** Implemented queries to generate detailed weekly income reports, helping the client make informed business decisions.
+**Inventory Management:** Created SQL queries to keep track of stock and predict when new items need to be ordered.  
+**Income Reporting:** Made queries that generate weekly income reports to help with business decisions based on the pretend shop's earnings.
 
 *Explore the Dataset*  
 For more details and to access the full dataset, check out the Kaggle dataset: https://www.kaggle.com/datasets/viramatv/coffee-shop-data 
